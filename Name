@@ -1,0 +1,5 @@
+#inclulde<stdio.h>
+Main()
+{
+Printf("dawood");
+}
